@@ -1,5 +1,5 @@
 # snake-game-assembly
-A snake game written in Assembly. University assignment.
+A snake game written in Assembly. University project.
 
 1. The map file for snake.asm is called "map.txt".
 2. The map file is a 2D arrays of 1s and 0s with each line ending with a "\n" character.
